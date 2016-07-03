@@ -1,12 +1,28 @@
 .botones{
     background-color: #E1E1E1;
     border-radius: 0px;
+    font-size: 12px;
 }
 .tab-pane{
-    margin-top: 10%;
+    margin-top: 6%;
     
 }
 b, p{
     font-family: Average;
     text-align: justify;
+}
+.tab-pane a{
+    color:#b24242; 
+}
+.tab-pane a:hover{
+     text-decoration: none;
+    
+}
+.tab-pane table td p{
+    align-content: center;
+    vertical-align: middle;
+    text-align: center;
+}
+.tab-pane table thead td{
+    font-size: 18px;
 }

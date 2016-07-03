@@ -1,10 +1,3 @@
-#body{
-    margin-left: 6%;
-    margin-right: 6%;
-    max-width:88%;	
-    height:auto;
-
-}
 .nav *{
     padding: 0px;
     margin:0px;
@@ -55,14 +48,13 @@ img{
 #izq{
 
     background: #B24242;
-    font-size: 18px;
-    font-family: average;
+    font-size: 16px;
+    font-family: Average;
     color: white;
 
 }
 #der{
     background: #1a1717;
-    
     font-family: average;
     color: #1a1717;
 
