@@ -1,0 +1,12 @@
+.botones{
+    background-color: #E1E1E1;
+    border-radius: 0px;
+}
+.tab-pane{
+    margin-top: 10%;
+    
+}
+b, p{
+    font-family: Average;
+    text-align: justify;
+}
