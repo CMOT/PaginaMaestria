@@ -48,26 +48,26 @@ img{
 #izq{
 
     background: #B24242;
-    font-size: 16px;
     font-family: Average;
     color: white;
-
+    font-size: 12px;
 }
 #der{
     background: #1a1717;
     font-family: average;
     color: #1a1717;
+    font-size: 12px;
 
 }
 .item{
     border-radius:4px;
-    font-size: 20px;
+    font-size: 22px;
     font-family: average;
     width: auto;
     background: #262525;
     display:table;
-    margin-bottom: 5%;
-    padding: 15px 10px;
+    margin-bottom: 3%;
+    padding: 20px 20px;
     color:#a6a1a1;
     text-transform: uppercase;
 }
@@ -96,18 +96,18 @@ header a{
 
 }
 footer ul{
-      margin-top: 10px;
+    margin-top: 10px;
 }
 footer ul li{
     display: inline-block;
-    padding: 0px 10px;
-    margin:-9px 3px;
+    padding: 0px 5px;
+    margin:0px;
     margin-bottom: -10px;
-  
+
 }
 footer ul li a{
-      color:black;
-      font-family: Average;
+    color:black;
+    font-family: Average;
 }
 footer ul li a:hover{
     color:black;
@@ -121,5 +121,5 @@ footer h4{
 }
 .gestion{
     margin-top: 20%;
-    
+
 }

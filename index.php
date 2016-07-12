@@ -47,10 +47,10 @@
         <article class="container">
             <article class="row titulo" >
                 <div class="col-lg-4 col-md-6 col-sm-10 col-xs-12" id='izq'>
-                    <h2>MAESTRÍA Y POSGRADO </h2>
+                    <h3>MAESTRÍA Y POSGRADO </h3>
                 </div>
                 <div class="col-lg-8 col-md-6 col-sm-2 col-xs-0 visible-lg visible-md visible-sm" id="der">
-                    <h2>A</h2>
+                    <h3>A</h3>
                 </div>
 
             </article>
@@ -71,78 +71,78 @@
     </section>
 
     <footer class="row">
-        <section class="container">
-            <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                <h4>DOCENTES</h4>
-                <ul >
-                    <li><a href="*">Correo institucional</a></li>
-                    <li><a href="*">Accede al nuevo correo</a></li>
-                    <hr>
-                    <li><a href="*">Tutores Telemáticos</a></li>
-                    <li><a href="*">Captura de calificacione</a></li>
-                </ul>
+            <section class="container">
 
-            </article>
-            <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                <div>
-                    <h4>NORMATIVIDAD</h4>
-                    <ul >
-                        <li><a href="*">Normativos TecNM</a></li>
-                        <li><a href="*">PIID TecNM</a></li>
+                <article class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                    <h4>DOCENTES</h4>
+                    <ul>
+                        <li><a href="*">Correo institucional</a></li>
+                        <li><a href="*">Accede al nuevo correo</a></li>
                         <hr>
-                        <li><a href="*">PIID ITToluca</a></li>
-                        <li><a href="*">PTA</a></li>
-                        <hr>
-                        <li><a href="">PIA</a></li>
+                        <li><a href="*">Tutores Telemáticos</a></li>
+                        <li><a href="*">Captura de calificacione</a></li>
                     </ul>
-                </div>
-                <div class="gestion">
-                    <h4>GESTIÓN</h4>
+
+                </article>
+                <article class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                    <div>
+                        <h4>NORMATIVIDAD</h4>
+                        <ul >
+                            <li><a href="*">Normativos TecNM</a></li>
+                            <li><a href="*">PIID TecNM</a></li>
+                            <hr>
+                            <li><a href="*">PIID ITToluca</a></li>
+                            <li><a href="*">PTA</a></li>
+                            <hr>
+                            <li><a href="">PIA</a></li>
+                        </ul>
+                    </div>
+                    <div class="gestion">
+                        <h4>GESTIÓN</h4>
+                        <ul >
+                            <li><a href="*">Calidad</a></li>
+                            <li><a href="*">Igualdad de género</a></li>
+
+                        </ul>
+                    </div>
+                </article>
+                <article class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                    <h4>ENLACE</h4>
                     <ul >
-                        <li><a href="*">Calidad</a></li>
-                        <li><a href="*">Igualdad de género</a></li>
+                        <li><a href="*">SEP </a></li>
+                        <li><a href="*">TecNM </a></li>
+                        <hr>
+                        <li><a href="*">CONACYT </a></li>
+                        <li><a href="*">COMECYT </a></li>
+                        <hr>
+                        <li><a href="*">CONRICYT </a></li>
+                        <li><a href="*">Programa Delfín </a></li>
+                        <hr>
+                        <li><a href="*">Universia </a></li>
+                        <li><a href="*">ANUIES </a></li>
+                        <hr>
+                        <li><a href="*">Capítulo I. Electrónica</a></li>
+                        <li><a href="*">Capítulo I. Industrial</a></li>
+                        <hr>
+                        <li><a href="*">CESA</a></li>
 
                     </ul>
-                </div>
-            </article>
-            <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                <h4>ENLACE</h4>
-                <ul >
-                    <li><a href="*">SEP </a></li>
-                    <li><a href="*">TecNM </a></li>
-                    <hr>
-                    <li><a href="*">CONACYT </a></li>
-                    <li><a href="*">COMECYT </a></li>
-                    <hr>
-                    <li><a href="*">CONRICYT </a></li>
-                    <li><a href="*">Programa Delfín </a></li>
-                    <hr>
-                    <li><a href="*">Universia </a></li>
-                    <li><a href="*">ANUIES </a></li>
-                    <hr>
-                    <li><a href="*">Capítulo I. Electrónica</a></li>
-                    <li><a href="*">Capítulo I. Industrial</a></li>
-                    <hr>
-                    <li><a href="*">CESA </a></li>
 
-                </ul>
-
-            </article>
-        </section>
-        <section class="container">
-            <article>
-                <center>
-                    <img src="resources/footerSEP.png">
-                    <pre>Av. Tecnológico s/n. Colonia Agrícola Bellavista
+                </article>
+            </section>
+            <section class="container">
+                <article>
+                    <center>
+                        <img src="../resources/footerSEP.png" alt="imagen">
+                        <pre>Av. Tecnológico s/n. Colonia Agrícola Bellavista
 Metepec, Edo. De México, México C.P. 52149
 Tel. (52) (722) 2 08 72 00
-                    </pre>
-                </center>
-            </article>
-        </section>
+                        </pre>
+                    </center>
+                </article>
+            </section>
 
-
-    </footer>
+        </footer>
 
 </body>
 </html>

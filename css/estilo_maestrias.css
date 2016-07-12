@@ -26,3 +26,15 @@ b, p{
 .tab-pane table thead td{
     font-size: 18px;
 }
+#indices{
+    list-style: lower-alpha;
+}
+#indices li{
+    margin:20px 0px;
+}
+#capacitado{
+    list-style: disc;
+}
+#capacitado li{
+    margin: 10px 0px;
+}
